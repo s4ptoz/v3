@@ -1,0 +1,8 @@
+name = "v3"
+compatibility_date = "2024-11-01"
+pages_build_output_dir = "public"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vvv-events"
+database_id = "45808126-776c-4dc9-8eb4-d76e0fcdd911"
